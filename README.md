@@ -1,6 +1,6 @@
 # vowel-language
 
-From the blog posting: https://aimlfun.com/consonant-or-vowel-sounds-like-countdown/
+From blog posting: https://aimlfun.com/consonant-or-vowel-sounds-like-countdown/
 
 This application requires .net6 and Visual Studio 2022 (Community works).
 
